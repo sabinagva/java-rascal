@@ -26,12 +26,12 @@ Use the troubleshooting and debugging skills you learned in class:
 
 **Describe**
 
-> What do you want to happen? 
+> What do you want to happen? : product to look like the screenshot
 > What is actually happening?
 
 **Isolate**
 
-> Where is the problem happening? 
+> Where is the problem happening?: script.js file
 > Which function? Which line of code?
 > Use tools: `console.log()`, Chrome debugger
 
